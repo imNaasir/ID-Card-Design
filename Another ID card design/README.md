@@ -2,7 +2,7 @@
 ![Project screan shoot](./screenshoots/output.PNG?row=true)
 
 ## I used 
--  HTML
--  CSS
+- [x]HTML
+- [x]CSS
 
 #### IF YOU WANT TO HELP ME PLEASE FOLLOW ME
